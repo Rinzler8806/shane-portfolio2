@@ -17,6 +17,7 @@ const ProjectsStyles = styled.div`
     position: relative;
     width: 300px;
     margin-top: 5rem;
+    margin-bottom: 2rem;
   }
   .projects__searchBar input{
     width: 100%;
